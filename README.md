@@ -12,14 +12,14 @@
 </p>
 
 <div align="center">
-  <a href="mailto:patelamir32003@gmail.com">
-    <img src="https://img.shields.io/badge/-patelamir32003%40gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/>
+  <a href="mailto:Adnan.ferrie@gmail.com">
+    <img src="https://img.shields.io/badge/-Adnan.ferrie%40gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/connect-amir" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect--Amir-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/adnanfotsing" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-adnanfotsing-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/amirpatel32003?tab=followers">
-    <img src="https://img.shields.io/github/followers/amirpatel32003?label=GitHub%20Followers&style=flat" alt="GitHub Followers" />
+  <a href="https://github.com/AdnanFerrie?tab=followers">
+    <img src="https://img.shields.io/github/followers/AdnanFerrie?label=GitHub%20Followers&style=flat" alt="GitHub Followers" />
   </a>
 </div>
 
@@ -95,8 +95,8 @@
 ---
 
 ## 🤝 Connect with Me
-**Email**: [patelamir32003@gmail.com](mailto:patelamir32003@gmail.com)  
-**LinkedIn**: [linkedin.com/in/connect-amir](https://www.linkedin.com/in/connect-amir)  
+**Email**: [Adnan.ferrie@gmail.com](mailto:Adnan.ferrie@gmail.com)  
+**LinkedIn**: [linkedin.com/in/adnanfotsing](https://www.linkedin.com/in/adnanfotsing)  
 
 I’m always on the lookout for interesting collaborations—especially where **data, AI, and fintech** intersect. Feel free to **reach out** or drop a **star** if you find my projects helpful!
 
